@@ -434,8 +434,8 @@ textarea.form-control {
 
 @media (max-width: 991.98px) {
   .ftco-46 .ftco-46-image {
-    height: 200px;
-    display: none;
+    height: 300px;
+    /* display: none; */
   }
 }
 
